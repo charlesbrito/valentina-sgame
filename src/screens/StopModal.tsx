@@ -23,7 +23,7 @@ const STOP_CONTENT = {
   }
 }
 
-export default function StopModal({ stopName, stopNumber, onContinue }: StopModalProps) {
+export default function StopModal({stopNumber, onContinue }: StopModalProps) {
   const content = STOP_CONTENT[stopNumber as keyof typeof STOP_CONTENT]
 
   return (
