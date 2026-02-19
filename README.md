@@ -1,4 +1,4 @@
-# ✈️ Flight Letter – 2D Game
+# ✈️ Valentina's Game – 2D Game
 
 Um mini jogo 2D feito em **React + Vite + TypeScript** que conta, por meio de uma viagem de avião, uma história sentimental em três paradas.
 
@@ -26,7 +26,7 @@ Criar uma experiência interativa e narrativa usando um jogo simples em 2D, com 
 - React
 - Vite
 - TypeScript
-- CSS
+- Tailwind
 
 ---
 
@@ -42,4 +42,4 @@ Criar uma experiência interativa e narrativa usando um jogo simples em 2D, com 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/charlesbrito/valentina-sgame.git
+git clone (https://github.com/charlesbrito/valentina-sgame.git)
