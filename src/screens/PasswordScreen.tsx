@@ -36,6 +36,8 @@ export default function PasswordScreen() {
           <form onSubmit={handleSubmit} className="space-y-4">
             <input
               type="text"
+              id="senha"
+              name="senha"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               placeholder="Digite a senha"
