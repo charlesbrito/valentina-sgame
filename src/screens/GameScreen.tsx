@@ -229,7 +229,7 @@ export default function GameScreen() {
       </div>
     </div>
 
-    <div className="absolute bottom-4 left-1/2 -translate-x-1/2 bg-black/70 text-white px-6 py-3 rounded-full text-sm">
+    <div className="absolute bottom-[calc(env(safe-area-inset-bottom)+16px)] left-1/2 -translate-x-1/2 bg-black/70 text-white px-6 py-3 rounded-full text-sm">
       Arraste o avião para cima ☝️
     </div>
 
